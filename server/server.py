@@ -1,3 +1,4 @@
+#Disclaimer Portions of this code was assisted with Copilot (Mainly to correct syntax errors and formatting issues)
 import socket
 import sys
 
